@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac120fbc-c785-4719-b56a-f57ebfd20867" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleRandomGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="35" column="112" lean-forward="true" selection-start-line="35" selection-start-column="112" selection-end-line="35" selection-end-column="112" />
+              <folding>
+                <marker date="1650534319362" expanded="true" signature="7:97" ph="..." />
+                <marker date="1650534319362" expanded="true" signature="140:2289" ph="{...}" />
+                <marker date="1650534319362" expanded="true" signature="184:228" ph="{...}" />
+                <marker date="1650534319362" expanded="true" signature="279:830" ph="{...}" />
+                <marker date="1650534319362" expanded="true" signature="372:822" ph="{...}" />
+                <marker date="1650534319362" expanded="true" signature="427:806" ph="{...}" />
+                <marker date="1650534319362" expanded="true" signature="892:972" ph="{...}" />
+                <marker date="1650534319362" expanded="true" signature="1029:1200" ph="{...}" />
+                <marker date="1650534319362" expanded="true" signature="1284:1305" ph="{...}" />
+                <marker date="1650534319362" expanded="true" signature="1469:1728" ph="{...}" />
+                <marker date="1650534319362" expanded="false" signature="1778:1874" ph="{...}" />
+                <marker date="1650534319362" expanded="false" signature="1931:2035" ph="{...}" />
+                <marker date="1650534319362" expanded="false" signature="2120:2285" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/VectorUtil.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1650534319371" expanded="false" signature="6:78" ph="..." />
+                <marker date="1650534319371" expanded="true" signature="104:205" ph="{...}" />
+                <marker date="1650534319371" expanded="true" signature="159:203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/Constants.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1650435451931" expanded="false" signature="6:78" ph="..." />
+                <marker date="1650435451931" expanded="true" signature="102:282" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleDemo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <marker date="1650433712874" expanded="true" signature="7:68" ph="..." />
+                <marker date="1650433712874" expanded="true" signature="109:945" ph="{...}" />
+                <marker date="1650433712874" expanded="true" signature="219:938" ph="{...}" />
+                <marker date="1650433712874" expanded="true" signature="234:649" ph="/* Room room = new Room(RoomType.ARMORY, RoomFunction.NORMAL, new Vector2Int(100,50)); ... */" />
+                <marker date="1650433712874" expanded="true" signature="810:922" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/RoomType.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1649554492203" expanded="false" signature="6:92" ph="..." />
+                <marker date="1649554492203" expanded="true" signature="129:239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Room.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+              <folding>
+                <marker date="1650433712888" expanded="false" signature="6:92" ph="..." />
+                <marker date="1650433712888" expanded="true" signature="127:790" ph="{...}" />
+                <marker date="1650433712888" expanded="true" signature="426:558" ph="{...}" />
+                <marker date="1650433712888" expanded="true" signature="660:783" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Render/CastleRender.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <marker date="1650276472013" expanded="false" signature="6:78" ph="..." />
+                <marker date="1650276472013" expanded="true" signature="121:5399" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="237:1079" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="358:608" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="686:825" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="911:1073" ph="{...}" />
+                <marker date="1650276472013" expanded="false" signature="1150:1477" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="1276:1439" ph="{...}" />
+                <marker date="1650276472013" expanded="false" signature="1540:1816" ph="{...}" />
+                <marker date="1650276472013" expanded="false" signature="1900:2420" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="2089:2381" ph="{...}" />
+                <marker date="1650276472013" expanded="false" signature="2508:2938" ph="{...}" />
+                <marker date="1650276472013" expanded="false" signature="3026:3999" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="3160:3518" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="3595:3954" ph="{...}" />
+                <marker date="1650276472013" expanded="false" signature="4088:4602" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="4223:4564" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="4305:4554" ph="{...}" />
+                <marker date="1650276472013" expanded="false" signature="4702:5092" ph="{...}" />
+                <marker date="1650276472013" expanded="true" signature="4993:5064" ph="{...}" />
+                <marker date="1650276472013" expanded="false" signature="5172:5395" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Castle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1650272331828" expanded="true" signature="6:61" ph="..." />
+                <marker date="1650272331828" expanded="true" signature="97:564" ph="{...}" />
+                <marker date="1650272331828" expanded="true" signature="280:348" ph="{...}" />
+                <marker date="1650272331828" expanded="true" signature="442:562" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Tower.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <marker date="1650270489946" expanded="false" signature="6:78" ph="..." />
+                <marker date="1650270489946" expanded="true" signature="99:631" ph="{...}" />
+                <marker date="1650270489946" expanded="true" signature="429:629" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/CastleShape.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <marker date="1650276471985" expanded="false" signature="6:78" ph="..." />
+                <marker date="1650276471985" expanded="true" signature="104:149" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{ get; private set; }</find>
+      <find>wallContainer.transform</find>
+      <find>Floor</find>
+      <find>room.Size</find>
+      <find>(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>;</replace>
+      <replace>father</replace>
+      <replace>startPoint</replace>
+      <replace>Story</replace>
+      <replace>size</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerRoof.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/CastleShape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Tower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Castle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerShape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Render/Orientation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Story.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleRandomGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Render/CastleRender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/RoomType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleDemo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Room.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/VectorUtil.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/RoomEnum.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/LastFloor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/StandardFloor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Enum/RoomType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Enum/RoomFunction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/MainFloor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Floor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Castle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Room.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleRender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Render/Orientation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/Contants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerLocation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerRoof.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerShape.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Floor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Tower.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Story.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Castle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/CastleShape.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Render/CastleRender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleDemo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Room.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/VectorUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleRandomGenerator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="351" />
+    <option name="y" value="170" />
+    <option name="width" value="1918" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="CastleStructureGrammar" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="CastleStructureGrammar" type="1045f7f1:UnityExplorerNode" />
+              <item name="Util" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="9396">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="9396" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac120fbc-c785-4719-b56a-f57ebfd20867" name="Default Changelist" comment="" />
+      <created>1649392304584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649392304584</updated>
+      <workItem from="1649392309810" duration="4229000" />
+      <workItem from="1649539839345" duration="14582000" />
+      <workItem from="1649710959036" duration="13224000" />
+      <workItem from="1649893765328" duration="1399000" />
+      <workItem from="1649996438337" duration="3935000" />
+      <workItem from="1650153382477" duration="5865000" />
+      <workItem from="1650254967023" duration="9906000" />
+      <workItem from="1650412464180" duration="12438000" />
+      <workItem from="1650489810409" duration="4245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69823000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20191796" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938644" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32978156" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19978689" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938644" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/StandardFloor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/LastFloor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/RoomEnum.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Enum/RoomEnum.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Floors.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Enum/RoomType.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Enum/RoomFunction.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Floor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Room.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/MainFloor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Castle.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleRender.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/Contants.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/MainFloor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Render/Orientation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <marker date="1649735007869" expanded="false" signature="6:78" ph="..." />
+            <marker date="1649735007869" expanded="true" signature="104:149" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerRoof.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1649997714175" expanded="false" signature="6:78" ph="..." />
+            <marker date="1649997714175" expanded="true" signature="101:124" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerShape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1650006783049" expanded="false" signature="6:78" ph="..." />
+            <marker date="1650006783049" expanded="true" signature="103:132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/TowerLocation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1649997631049" expanded="false" signature="6:78" ph="..." />
+            <marker date="1649997631049" expanded="true" signature="106:149" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Floor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Story.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1650272331820" expanded="false" signature="7:93" ph="..." />
+            <marker date="1650272331820" expanded="true" signature="128:357" ph="{...}" />
+            <marker date="1650272331820" expanded="true" signature="215:250" ph="{...}" />
+            <marker date="1650272331820" expanded="true" signature="299:355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1650272769241" expanded="true" signature="6:92" ph="..." />
+            <marker date="1650272769241" expanded="true" signature="129:1162" ph="{...}" />
+            <marker date="1650272769241" expanded="true" signature="178:729" ph="{...}" />
+            <marker date="1650272769241" expanded="true" signature="271:721" ph="{...}" />
+            <marker date="1650272769241" expanded="true" signature="326:705" ph="{...}" />
+            <marker date="1650272769241" expanded="true" signature="791:871" ph="{...}" />
+            <marker date="1650272769241" expanded="true" signature="925:970" ph="{...}" />
+            <marker date="1650272769241" expanded="true" signature="1061:1155" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <marker date="1650433712874" expanded="true" signature="7:68" ph="..." />
+            <marker date="1650433712874" expanded="true" signature="109:945" ph="{...}" />
+            <marker date="1650433712874" expanded="true" signature="219:938" ph="{...}" />
+            <marker date="1650433712874" expanded="true" signature="234:649" ph="/* Room room = new Room(RoomType.ARMORY, RoomFunction.NORMAL, new Vector2Int(100,50)); ... */" />
+            <marker date="1650433712874" expanded="true" signature="810:922" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/RoomType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1649554492203" expanded="false" signature="6:92" ph="..." />
+            <marker date="1649554492203" expanded="true" signature="129:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Room.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <marker date="1650433712888" expanded="false" signature="6:92" ph="..." />
+            <marker date="1650433712888" expanded="true" signature="127:790" ph="{...}" />
+            <marker date="1650433712888" expanded="true" signature="426:558" ph="{...}" />
+            <marker date="1650433712888" expanded="true" signature="660:783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Render/CastleRender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1650276472013" expanded="false" signature="6:78" ph="..." />
+            <marker date="1650276472013" expanded="true" signature="121:5399" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="237:1079" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="358:608" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="686:825" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="911:1073" ph="{...}" />
+            <marker date="1650276472013" expanded="false" signature="1150:1477" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="1276:1439" ph="{...}" />
+            <marker date="1650276472013" expanded="false" signature="1540:1816" ph="{...}" />
+            <marker date="1650276472013" expanded="false" signature="1900:2420" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="2089:2381" ph="{...}" />
+            <marker date="1650276472013" expanded="false" signature="2508:2938" ph="{...}" />
+            <marker date="1650276472013" expanded="false" signature="3026:3999" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="3160:3518" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="3595:3954" ph="{...}" />
+            <marker date="1650276472013" expanded="false" signature="4088:4602" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="4223:4564" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="4305:4554" ph="{...}" />
+            <marker date="1650276472013" expanded="false" signature="4702:5092" ph="{...}" />
+            <marker date="1650276472013" expanded="true" signature="4993:5064" ph="{...}" />
+            <marker date="1650276472013" expanded="false" signature="5172:5395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Castle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1650272331828" expanded="true" signature="6:61" ph="..." />
+            <marker date="1650272331828" expanded="true" signature="97:564" ph="{...}" />
+            <marker date="1650272331828" expanded="true" signature="280:348" ph="{...}" />
+            <marker date="1650272331828" expanded="true" signature="442:562" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Tower.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1650270489946" expanded="false" signature="6:78" ph="..." />
+            <marker date="1650270489946" expanded="true" signature="99:631" ph="{...}" />
+            <marker date="1650270489946" expanded="true" signature="429:629" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Grammar/Enum/CastleShape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1650276471985" expanded="false" signature="6:78" ph="..." />
+            <marker date="1650276471985" expanded="true" signature="104:149" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/Constants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1650435451931" expanded="false" signature="6:78" ph="..." />
+            <marker date="1650435451931" expanded="true" signature="102:282" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/Util/VectorUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1650534319371" expanded="false" signature="6:78" ph="..." />
+            <marker date="1650534319371" expanded="true" signature="104:205" ph="{...}" />
+            <marker date="1650534319371" expanded="true" signature="159:203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/CastleStructureGrammar/CastleRandomGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="112" lean-forward="true" selection-start-line="35" selection-start-column="112" selection-end-line="35" selection-end-column="112" />
+          <folding>
+            <marker date="1650534319362" expanded="true" signature="7:97" ph="..." />
+            <marker date="1650534319362" expanded="true" signature="140:2289" ph="{...}" />
+            <marker date="1650534319362" expanded="true" signature="184:228" ph="{...}" />
+            <marker date="1650534319362" expanded="true" signature="279:830" ph="{...}" />
+            <marker date="1650534319362" expanded="true" signature="372:822" ph="{...}" />
+            <marker date="1650534319362" expanded="true" signature="427:806" ph="{...}" />
+            <marker date="1650534319362" expanded="true" signature="892:972" ph="{...}" />
+            <marker date="1650534319362" expanded="true" signature="1029:1200" ph="{...}" />
+            <marker date="1650534319362" expanded="true" signature="1284:1305" ph="{...}" />
+            <marker date="1650534319362" expanded="true" signature="1469:1728" ph="{...}" />
+            <marker date="1650534319362" expanded="false" signature="1778:1874" ph="{...}" />
+            <marker date="1650534319362" expanded="false" signature="1931:2035" ph="{...}" />
+            <marker date="1650534319362" expanded="false" signature="2120:2285" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
